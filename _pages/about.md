@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I'm KANG HUI(康辉). I am currently pursuing a Ph.D. in Advanced Materials, at HKUST. My research interest includes MXene functionalization, photothermal seawater desalination, and electromagnetic shielding.
+
+Currently, I am very fortunate to be advised by Prof. GAO Ping(高平)(https://seng.hkust.edu.hk/about/people/faculty/ping-gao) of Polymembranes@NanoResearch Lab from HKUST. I was advised by Prof. LIU Yuyan（刘宇艳）（http://homepage.hit.edu.cn/liuyuyan?lang=zh） and Prof. FAN Zhimin(樊志敏)(http://homepage.hit.edu.cn/fanzhimin?lang=zh) from Harbin Institute of Technology during my undergraduate years.
+
+At the same time, I am also passionate about innovation and entrepreneurship and have had several entrepreneurial experiences. At present, I am the founder and CEO of Hong Kong New Era Technology Co., LTD.
+
+In my spare time, I am also keen on photography and marathons.  
+
+You can find my CV here: KANG_max's Curriculum Vitae](../assets/Curriculum Vitae.pdf)
 
 A data-driven personal website
 ======
