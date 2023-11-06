@@ -16,7 +16,8 @@ You can find my CV here: KANG_max's Curriculum Vitae](../assets/Curriculum Vitae
 
 NEWS
 ======
-
+2023.06  接受广东电视台采访https://m.itouchtv.cn/liveRich/93133?shareId=QRLA2FDC&currentTag=1
+2023.05  接受中央广播电视总台采访https://content-static.cctvnews.cctv.com/snow-book/video.html?toc_style_id=video_default&share_to=wechat&item_id=940043906949408370&track_id=CF654EE5-4D70-4B02-A332-4D87D7D789D0_706588125896
 2022.12  接受香港科技大学广州校园采访https://mp.weixin.qq.com/s/e4RfzDmUk4nBxOAEjiEfMw
 2022.06  作为学生代表被学院采访https://mp.weixin.qq.com/s/JBnORi7Wpl9XBh9-wMcE7w
 2021.11  获奖成果被工业和信息化部报道https://www.miit.gov.cn/xwdt/gxdt/bsdw/art/2021/art_64a7ac087ac74d689b9282c5af640b16.html
