@@ -45,32 +45,35 @@ Site-wide configuration
 
 ------
 
-Honors and Awards()
+Honors and Awards(国家级19项，省部级26项)
 ------
-2022.12	中国研究生“双碳”创新与创意大赛/全国二等奖
-2022.12	“互联网+”创新创业大赛/全国银奖
-2022.05	哈尔滨工业大学学生五四奖章/哈工大最高荣誉，本科生首次
-2022.03	挑战杯课外学术科技竞赛/全国二等奖
-2021.12	大学生创新创业年会优秀学术论文奖/全国一等奖
-2021.10	国际顶点设计竞赛/唯一金奖
-2021.10	宝钢教育奖优秀学生奖/哈工大唯一本科生
-2021.10	“互联网+”创新创业大赛/全国金奖
-2021.09	2021“华为杯”全国大学生物联网设计竞赛/全国三等奖
-2020.12	“京津冀-粤港澳”青年创新创业大赛/全国银奖
-2020.11	国家励志奖学金
-2019.12	大学生乡村教育奖全国银奖
-2019.11	国家励志奖学金
+2023年11月  入选第九届中国国际“互联网＋”创新创业大赛全国总决赛
+2023年10月  第十八届“挑战杯”全国大学生课外学术科技作品竞赛国家特等奖2022年12月  中国研究生“双碳”创新与创意大赛全国二等奖（中国科协）
+2022年11月  联合国开发计划署创客大赛三等奖（联合国开发计划署）
+2022年11月  第八届中国国际“互联网＋”创新创业大赛全国银奖（教育部等）
+2022年04月  第十七届“挑战杯”全国大学生课外学术科技作品竞赛全国二等奖
+2021年12月  第十四届大学生创新创业年会优秀学术论文奖（全国一等奖，教育部）
+2021年10月  国际顶点设计竞赛金奖（韩国教育部）
+2021年10月  宝钢教育奖优秀学生奖
+2021年09月  第七届中国国际“互联网＋”创新创业大赛全国金奖
+2021年09月  2021全国大学生物联网设计竞赛全国三等奖
+2020年12月  全国移动互联大赛全国一等奖
+2020年12月 “京津冀-粤港澳”青年创新创业大赛全国银奖
+2020年11月  国家励志奖学金
+2019年12月  大学生乡村教育奖全国银奖
+2019年11月  国家励志奖学金
 2023.06	香港大学生创新创业大赛二等奖
-2021.12	哈工大优秀学生李昌奖（校长奖章，排名第一）
 2021.11	全国数学建模大赛/省一等奖
+2022年04月  哈尔滨工业大学学生五四奖章(最高荣誉)
+2021.12	哈工大优秀学生李昌奖（校长奖章，本科生排名第一）
 2021.05	哈尔滨工业大学十佳青年志愿者
 2021.04	哈工大春晖创新成果奖一等奖（哈工大创新创业最高荣誉）
 2020.12	化工与化学学院十佳大学生
 
 **Educations**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+2023.09 - (now), Ph.D., Hong Kong University of Science and Technology.
+2017.09 - 2021.06, B.E., Harbin Institute of Technology
 
 How to edit your site's GitHub repository
 ------
