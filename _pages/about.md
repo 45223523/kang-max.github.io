@@ -16,15 +16,11 @@ You can find my CV here: KANG_max's Curriculum Vitae](../assets/Curriculum Vitae
 
 NEWS
 ======
-2023.09: I join AI Thrust, Info Hub in HKUST(GZ) as a Ph.D. candidate supervised by Addison Lin Wang(王林).
-2023.07:  🎉🎉 One paper is accepted by ICCV2023.
-2023.03:  🎉🎉 One paper is accepted by CVPR2023 highlight(top 2.5%).
-2022.07:  🎉🎉 My first paper is accepted by ECCV2022.
-2022.05: I join AI Thrust, Info Hub in HKUST(GZ) as a research assistant supervised by Addison Lin Wang(王林).
-2021.07: I join School of Data Science, CUHKSZ as a research assistant supervised by Ruimao Zhang(张瑞茂).
-2021.06: I graduate from Shanghai Univeristy with my bachelor’s degree in computer science and engineering.
-2019.09: I was selected as (1/300) Chinese undergraduate student representatives to attend the Global Grand Challenge Summit in London.
-2019.06: I was selected as (1/30) undergraduate student representatives to join the leadership program in The Wharton School of UPEEN.
+
+2022.12  接受香港科技大学广州校园采访https://mp.weixin.qq.com/s/e4RfzDmUk4nBxOAEjiEfMw
+2022.06  作为学生代表被学院采访https://mp.weixin.qq.com/s/JBnORi7Wpl9XBh9-wMcE7w
+2021.11  获奖成果被工业和信息化部报道https://www.miit.gov.cn/xwdt/gxdt/bsdw/art/2021/art_64a7ac087ac74d689b9282c5af640b16.html
+2021.08  创新创业事迹被哈工大官网、中国青年报、澎湃新闻等官方媒体报道http://news.cyol.com/gb/articles/2021-08/09/content_K2XPWsB7K.html
 
 Publications
 ======
