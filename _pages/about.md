@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm KANG HUI(康辉). I am currently pursuing a Ph.D. in Advanced Materials, at HKUST. My research interest includes MXene functionalization, photothermal seawater desalination, and electromagnetic shielding.
 
-Currently, I am very fortunate to be advised by Prof. GAO Ping [高平](https://seng.hkust.edu.hk/about/people/faculty/ping-gao) of Polymembranes@NanoResearch Lab from HKUST. I was advised by Prof. LIU Yuyan [刘宇艳](http://homepage.hit.edu.cn/liuyuyan?lang=zh) and Prof. FAN Zhimin [樊志敏](http://homepage.hit.edu.cn/fanzhimin?lang=zh) from Harbin Institute of Technology during my undergraduate years.
+Currently, I am very fortunate to be advised by [Prof. GAO Ping](https://seng.hkust.edu.hk/about/people/faculty/ping-gao) 高平 of Polymembranes@NanoResearch Lab from HKUST. I was advised by [Prof. LIU Yuyan](http://homepage.hit.edu.cn/liuyuyan?lang=zh)刘宇艳 and [Prof. FAN Zhimin](http://homepage.hit.edu.cn/fanzhimin?lang=zh) 樊志敏from Harbin Institute of Technology during my undergraduate years.
 
 At the same time, I am also passionate about innovation and entrepreneurship and have had several entrepreneurial experiences. At present, I am the founder and CEO of Hong Kong New Era Technology Co., LTD.In my spare time, I am also keen on photography and marathons.  
 
