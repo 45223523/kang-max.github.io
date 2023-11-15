@@ -28,10 +28,7 @@ NEWS
 ------
 
 
-**Educations**
 
-- 2023.09 - (now), Ph.D., Hong Kong University of Science and Technology.
-- 2017.09 - 2021.06, B.E., Harbin Institute of Technology
 
 How to edit your site's GitHub repository
 ------
