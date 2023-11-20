@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Hong Kong Polytechnic University"
 collection: teaching
-type: "Workshop"
+type: "Visiting student"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Hong Kong Polytechnic University, State Key Laboratory of Chemical Biology and Drug Development"
+venue: "State Key Laboratory of Chemical Biology and Drug Development"
 Period: 2022.01-2022.02
 location: "HK, China"
 ---
